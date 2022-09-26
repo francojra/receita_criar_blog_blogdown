@@ -23,3 +23,23 @@ blogdown::new_site("caminho", theme = "usuario/repositorio")
 ### https://themes.gohugo.io/ para escolher temas
 
 # 4 - Configurar o site no arquivo config.toml
+
+# 5 - Mexer nos posts dentro da pasta content/post
+
+### Usarblogdown::new_post() para criar novos pots.
+blogdown::new_post() 
+
+# 6 - Rodar blogdown::serve_site() para testar local.
+
+blogdown::serve_site()
+
+# 7 - Rodar blogdown::build_site() para montar o site final e tornar o site público.
+
+blogdown::build_site()
+
+# 8 - Subir para o Github para colocar em produção (se estiver usando o GH pages)
+
+# Live explicando como criar um blog com {blogdown} do zero --------------------------------------------------------------------------------
+
+### https://www.youtube.com/watch?v=PjUcR2cZTW8
+
