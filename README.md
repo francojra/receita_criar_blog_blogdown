@@ -15,4 +15,4 @@
 - Rodar blogdown::serve_site() para testar local;
 - Rodar blogdown::build_site() para montar o site final e tornar o site público;
 - Subir para o Github para colocar em produção (se estiver usando o GH pages).
-2 - Live explicando como criar um blog com {blogdown} do zero.
+2. Live explicando como criar um blog com {blogdown} do zero.
