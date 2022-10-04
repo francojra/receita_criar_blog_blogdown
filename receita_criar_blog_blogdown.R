@@ -26,7 +26,7 @@ blogdown::new_site("caminho", theme = "usuario/repositorio")
 
 # 5 - Mexer nos posts dentro da pasta content/post
 
-### Usarblogdown::new_post() para criar novos pots.
+### Usar blogdown::new_post() para criar novos pots.
 blogdown::new_post() 
 
 # 6 - Rodar blogdown::serve_site() para testar local.
